@@ -12,6 +12,8 @@ _"Draw me a sheep!"_
 
 I jumped to my feet, completely thunderstruck. I blinked my eyes hard. I looked carefully all around me. And I saw a most extraordinary small person, who stood there examining me with great seriousness. Here you may see the best portrait that, later, I was able to make of him. But my drawing is certainly very much less charming than its model.
 
+![Image alt text](/Image.png "Lil Prince")
+
 That, however, is not my fault. The grown-ups discouraged me in my painter's career when I was six years old, and I never learned to draw anything, except boas from the outside and boas from the inside.
 
 Now I stared at this sudden apparition with my eyes fairly starting out of my head in astonishment. Remember, I had crashed in the desert a thousand miles from any inhabited region. And yet my little man seemed neither to be straying uncertainly among the sands, nor to be fainting from fatigue or hunger or thirst or fear. Nothing about him gave any suggestion of a child lost in the middle of the desert, a thousand miles from any human habitation. When at last I was able to speak, I said to him:
@@ -31,3 +33,27 @@ But I had never drawn a sheep. So I drew for him one of the two pictures I had d
 _"No, no, no! I do not want an elephant inside a boa constrictor. A boa constrictor is a very dangerous creature, and an elephant is very cumbersome. Where I live, everything is very small. What I need is a sheep. Draw me a sheep."_
 
 So then I made a drawing.
+
+Here is a table
+
+| Column 1 Heading | Column 2 Heading |
+| ---------------- | ---------------- |
+| Some content     | Other content    |
+| Some content     | Other content    |
+| Some content     | Other content    |
+
+
+Column 1 Heading | Column 2 Heading
+--- | ---
+Some content | Other content
+Some content | Other content
+Some content | Other content
+
+Browser | Version |
+-----|------
+Mozilla Firefox | 87
+Internet Explorer | 86
+Mozilla Firefox | 87
+Internet Explorer | 86
+
+
